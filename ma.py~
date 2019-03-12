@@ -1,0 +1,7 @@
+print("enter the data of man")
+a=input("age")
+b=input("country")
+c=input("place")
+d=input("name")
+print("enter the data ",a,b,c,d,"hello ")
+
